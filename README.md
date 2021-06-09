@@ -7,3 +7,4 @@ Alunos:
 - Thaís Lauriano
 - Susy Dutra 
 - Gustavo Sampaio
+- Reynaldo Coronatto
