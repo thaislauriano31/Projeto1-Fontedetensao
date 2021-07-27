@@ -64,6 +64,7 @@ Sem LED:
 
 ![image](https://user-images.githubusercontent.com/83373458/127077784-c05dcd73-5022-423a-be34-c28143e51a91.png)
 
+**Observação**: escolhemos o capacitor de 560uF por ser o valor comercial mais próximo de ambos os valores encontrados nos cálculos.
 
 # Alunos:
 
