@@ -46,9 +46,23 @@ O objetivo deste projeto, da disciplina SSC0180 - Eletrônica para Computação,
 
 Link do circuito: https://tinyurl.com/yjoj8fdw
 
+# PCB no EAGLE
+![image](https://user-images.githubusercontent.com/83373458/127077269-599f5d6d-ce1f-44ad-97fc-bcaf6d5e4a23.png)
+![image](https://user-images.githubusercontent.com/83373458/127077281-3d56c2f0-5d48-4e60-9915-61d14490064b.png)
+![image](https://user-images.githubusercontent.com/83373458/127077300-29c8faf2-3919-47bb-8053-a3331aebc56f.png)
+![image](https://user-images.githubusercontent.com/83373458/127077309-947a92a9-3021-43f8-a96b-a9c32545e1cc.png)
+![image](https://user-images.githubusercontent.com/83373458/127077322-f58f614b-5dfc-48ea-893f-60a8bb7a794d.png)
+
+**Observação**: não incluímos o LED na PCB por não se tratar de um componente essencial. 
+
 # Cálculos:
+Com LED:
 
 ![image](https://user-images.githubusercontent.com/83373458/127064325-d9090c79-19df-4197-9793-083a7b63e7e1.png)
+
+Sem LED:
+
+![image](https://user-images.githubusercontent.com/83373458/127077784-c05dcd73-5022-423a-be34-c28143e51a91.png)
 
 
 # Alunos:
