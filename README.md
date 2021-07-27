@@ -66,6 +66,10 @@ Sem LED:
 
 **Observação**: escolhemos o capacitor de 560uF por ser o valor comercial mais próximo de ambos os valores encontrados nos cálculos.
 
+# Vídeo explicando o circuito
+
+Link: https://drive.google.com/file/d/1Z3LGPDQwTCrYFfjW_hz7Na1YbHgeqS9X/view
+
 # Alunos:
 
 - Thaís Lauriano
