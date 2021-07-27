@@ -29,7 +29,7 @@ O objetivo deste projeto, da disciplina SSC0180 - Eletrônica para Computação,
 
 | Quantidade | Componente | Valor |
 |------------|------------|-------|
-| 1 | Transformador 110V para 18V| [20,40](https://www.multcomercial.com.br/transformador-de-tensao-127-220v-para-18v18v-500ma.html)| 
+| 1 | Transformador 127V para 18V| [20,40](https://www.multcomercial.com.br/transformador-de-tensao-127-220v-para-18v18v-500ma.html)| 
 | 4 | Diodo 1N4004 | [0,52](https://www.baudaeletronica.com.br/diodo-1n4004.html) (4 x 0,13) |
 | 1 | Capacitor | [0,67](https://www.americanas.com.br/produto/3151870134?opn=YSMESP) |
 | 1 | Diodo Zener 13V | [0,21](https://www.baudaeletronica.com.br/diodo-zener-1n4743-13v-1w.html) |
